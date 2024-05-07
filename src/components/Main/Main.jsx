@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import "./Main.css";
-import { assets } from "../../../public/assets";
+import { assets } from "../../../public/assets/assets"
 import { Context } from "../../context/Context";
 
 
